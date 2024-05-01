@@ -1,0 +1,36 @@
+/* TaskAssignment.css */
+.assignment-container {
+    margin-bottom: 20px;
+  }
+  
+  .assignment-container h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .assignment-container label {
+    margin-right: 10px;
+  }
+  
+  .assignment-container select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .assignment-container button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .assignment-container button:hover {
+    background-color: #218838;
+  }
+  
+  .btn-assign {
+    margin: 20px;
+  }
